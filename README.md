@@ -35,7 +35,7 @@ Machine learning is a critical skill in the fields of data analytics and data sc
 
 1. **Clone the Repository**: Start by cloning the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/machine-learning-assignments.git
+    git clone https://github.com/Onkar28/ML Assignments.git
     cd machine-learning-assignments
     ```
 
